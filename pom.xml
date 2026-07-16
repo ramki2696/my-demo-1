@@ -8,6 +8,8 @@
 		<version>4.0.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
+</ram>
 	<groupId>com.example</groupId>
 	<artifactId>ramdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
